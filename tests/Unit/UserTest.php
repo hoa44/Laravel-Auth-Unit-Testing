@@ -16,7 +16,7 @@ class UserTest extends TestCase
      */
 
     // Grabs a random user from teh DB and verifies the ID is an integer and that he user column is a string.
-    public function testUserID()
+    public function testUserDatabaseInfo()
 
     {
         $user = User::inRandomOrder()->first();

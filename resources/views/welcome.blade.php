@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    hoa44 IS-601 Leravel Authentication and DB Seeding with Unit testing.
                 </div>
 
                 <div class="links">
