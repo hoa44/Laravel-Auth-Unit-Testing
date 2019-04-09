@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    This is your about page.
+                    This is your profile page, with your example post retrieved from the database.
                         @foreach ($posts as $post)
                             <h1>{{ $post->Title  }} </h1>
                               {{ $post->body }}
